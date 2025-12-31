@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e">
+  <name>УстановитьИспользуетсяДляНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Установить Используется для Номенклатуры</value>
+  </synonym>
+  <defaultForm>DataProcessor.УстановитьИспользуетсяДляНоменклатуры.Form.Форма</defaultForm>
+</mdclass:DataProcessor>
+
