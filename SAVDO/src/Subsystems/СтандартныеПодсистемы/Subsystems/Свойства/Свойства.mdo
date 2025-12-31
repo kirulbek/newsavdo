@@ -22,6 +22,7 @@
   <content>InformationRegister.ДополнительныеСведения</content>
   <content>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</content>
   <content>CommonCommand.ДополнительныеСведенияКоманднаяПанель</content>
+  <content>CommonCommand.СвойстваОбщиеНастройки</content>
   <content>Role.ЧтениеДополнительныхСведений</content>
   <content>Role.ИзменениеДополнительныхСведений</content>
   <content>FunctionalOption.ИспользоватьДополнительныеРеквизитыИСведения</content>
