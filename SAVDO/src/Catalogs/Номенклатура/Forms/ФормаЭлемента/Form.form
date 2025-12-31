@@ -288,6 +288,7 @@
     <name>ФормаКоманднаяПанель</name>
     <id>-1</id>
     <horizontalAlign>Left</horizontalAlign>
+    <autoFill>true</autoFill>
   </autoCommandBar>
   <handlers>
     <event>FillCheckProcessingAtServer</event>
@@ -320,4 +321,14 @@
     <main>true</main>
     <savedData>true</savedData>
   </attributes>
+  <extInfo xsi:type="form:CatalogFormExtInfo">
+    <handlers>
+      <event>OnReadAtServer</event>
+      <name>ПриЧтенииНаСервере</name>
+    </handlers>
+    <handlers>
+      <event>BeforeWriteAtServer</event>
+      <name>ПередЗаписьюНаСервере</name>
+    </handlers>
+  </extInfo>
 </form:Form>

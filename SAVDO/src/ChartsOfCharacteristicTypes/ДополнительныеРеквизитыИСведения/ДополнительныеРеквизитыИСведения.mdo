@@ -121,6 +121,7 @@
     <types>String</types>
     <types>Date</types>
     <types>Number</types>
+    <types>CatalogRef.Номенклатура</types>
     <types>CatalogRef.Пользователи</types>
     <numberQualifiers>
       <precision>17</precision>
