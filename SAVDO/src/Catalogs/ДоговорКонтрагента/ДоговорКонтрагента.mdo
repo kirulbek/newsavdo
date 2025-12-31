@@ -115,6 +115,7 @@
     <value>Договор контрагента</value>
   </objectPresentation>
   <levelCount>1</levelCount>
+  <owners>Catalog.Контрагенты</owners>
   <descriptionLength>150</descriptionLength>
   <codeType>String</codeType>
   <codeAllowedLength>Variable</codeAllowedLength>
