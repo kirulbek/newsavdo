@@ -307,14 +307,9 @@
   </handlers>
   <attributes>
     <name>Объект</name>
-    <title>
-      <key>ru</key>
-      <value>Объект</value>
-    </title>
     <id>1</id>
     <valueType>
-      <types>String</types>
-      <stringQualifiers/>
+      <types>CatalogObject.Номенклатура</types>
     </valueType>
     <view>
       <common>true</common>
@@ -322,5 +317,7 @@
     <edit>
       <common>true</common>
     </edit>
+    <main>true</main>
+    <savedData>true</savedData>
   </attributes>
 </form:Form>
